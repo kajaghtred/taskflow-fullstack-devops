@@ -26,3 +26,12 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+
+# Node.js / React / Vite
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vite/
